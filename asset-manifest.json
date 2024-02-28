@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lex/static/css/main.e6c13ad2.css",
+    "main.js": "/Lex/static/js/main.247444bd.js",
+    "static/js/453.18d049b1.chunk.js": "/Lex/static/js/453.18d049b1.chunk.js",
+    "static/media/EXL_logo.png": "/Lex/static/media/EXL_logo.fa1d5474b6346e5d8ce4.png",
+    "index.html": "/Lex/index.html",
+    "main.e6c13ad2.css.map": "/Lex/static/css/main.e6c13ad2.css.map",
+    "main.247444bd.js.map": "/Lex/static/js/main.247444bd.js.map",
+    "453.18d049b1.chunk.js.map": "/Lex/static/js/453.18d049b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.247444bd.js"
+  ]
+}
